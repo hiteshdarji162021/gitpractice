@@ -1,9 +1,9 @@
 package GitHubPractice.GitHubPractice;
 
-public class suresh {
+public class user {
 
     public static void main(String[] args) {
-        System.out.println("My test");
+        System.out.println("user test");
 
     }
 
