@@ -6,6 +6,8 @@ public class Search {
 		System.out.println("My search");
 		
 		System.out.println("Gabbar");
+		
+		System.out.println("Gabbar");
 
 	}
 
